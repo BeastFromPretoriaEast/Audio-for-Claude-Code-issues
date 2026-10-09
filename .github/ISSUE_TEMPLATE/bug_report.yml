@@ -1,0 +1,27 @@
+name: Something isn't working
+description: Clau-dio doesn't read, reads the wrong thing, or shows an error
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened, and what did you expect?
+    validations:
+      required: true
+  - type: input
+    id: system
+    attributes:
+      label: Computer and versions
+      placeholder: "Windows 11, VS Code 1.105, Clau-dio 1.1.0, Claude Code 2.x"
+    validations:
+      required: true
+  - type: dropdown
+    id: voice
+    attributes:
+      label: Voice
+      options: [Built-in voice, ElevenLabs voice]
+  - type: textarea
+    id: log
+    attributes:
+      label: Anything in View > Output > Clau-dio?
+      description: Please remove anything private before pasting. Never paste your ElevenLabs API key.

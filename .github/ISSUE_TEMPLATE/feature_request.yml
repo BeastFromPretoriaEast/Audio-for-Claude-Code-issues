@@ -1,0 +1,10 @@
+name: Idea or suggestion
+description: Something Clau-dio could do better
+labels: [enhancement]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like Clau-dio to do?
+    validations:
+      required: true
