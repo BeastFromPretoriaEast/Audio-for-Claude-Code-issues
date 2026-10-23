@@ -1,21 +1,21 @@
-Clau-dio
+Audio for Claude Code
 Copyright (c) 2026 Markus Botha. All rights reserved.
 
 This extension is free to install and use, but it is not open source.
 
 You may:
-- install and use Clau-dio, free of charge, on any number of your own computers, for personal or work use.
+- install and use Audio for Claude Code, free of charge, on any number of your own computers, for personal or work use.
 
 You may not, without written permission from the copyright holder:
-- copy, modify, translate or create works based on Clau-dio or any part of its source code, icons or text;
-- publish, distribute, sell, rent or sublicense Clau-dio or any modified version of it, including on the Visual
+- copy, modify, translate or create works based on Audio for Claude Code or any part of its source code, icons or text;
+- publish, distribute, sell, rent or sublicense Audio for Claude Code or any modified version of it, including on the Visual
   Studio Marketplace, Open VSX or any other extension store;
-- remove or change this notice, or the name, icons or branding of Clau-dio.
+- remove or change this notice, or the name, icons or branding of Audio for Claude Code.
 
 The source code is included in the extension only because VS Code extensions need it to run; seeing it does not
 give you any of the rights above.
 
-Clau-dio is an independent extension. It is not made by, affiliated with or endorsed by Anthropic or ElevenLabs.
+Audio for Claude Code is an independent extension. It is not made by, affiliated with or endorsed by Anthropic or ElevenLabs.
 Claude and Claude Code are trademarks of Anthropic; ElevenLabs is a trademark of ElevenLabs.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE

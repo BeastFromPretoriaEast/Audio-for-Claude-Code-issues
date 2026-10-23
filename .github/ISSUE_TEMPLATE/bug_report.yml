@@ -1,5 +1,5 @@
 name: Something isn't working
-description: Clau-dio doesn't read, reads the wrong thing, or shows an error
+description: Audio for Claude Code doesn't read, reads the wrong thing, or shows an error
 labels: [bug]
 body:
   - type: textarea
@@ -12,7 +12,7 @@ body:
     id: system
     attributes:
       label: Computer and versions
-      placeholder: "Windows 11, VS Code 1.105, Clau-dio 1.1.0, Claude Code 2.x"
+      placeholder: "Windows 11, VS Code 1.105, Audio for Claude Code 1.3.2, Claude Code 2.x"
     validations:
       required: true
   - type: dropdown
@@ -23,5 +23,5 @@ body:
   - type: textarea
     id: log
     attributes:
-      label: Anything in View > Output > Clau-dio?
+      label: Anything in View > Output > Audio for Claude Code?
       description: Please remove anything private before pasting. Never paste your ElevenLabs API key.
